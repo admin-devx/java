@@ -1,0 +1,38 @@
+Module 1: 
+1. Write a program that compares two strings and checks for substring presence
+2. Program to encode characters to their Unicode representations and decode them back.
+3. Write a program that takes user input for multiple strings and appends them using StringBuilder.
+4. Write a program to split a paragraph into individual sentences.
+5. Write a program to convert a date object to a string in a specific format.
+6. Write a program to insert a substring into a string at a specific position using StringBuilder
+7. Write a program to remove null values from an array of strings
+8. Write a program to find all occurrences of a pattern in a string using Pattern and Matcher.
+9. Write a program to count the number of vowels in a string using the Character class
+10. Write a program to check whether a given string is a palindrome or not by using: A.StringBuffer Class
+
+
+MOdule 2:
+1. Write a Java program to create List containing list of items and use ListIterator interface to print items present in the list. Also print the list in reverse/ backward direction
+2. Write a Java program to create a Set containing list of items of type String and print the items in the list using the Iterator interface. Also print the list in reverse/ backward direction
+3. Write a Java program using Set interface containing list of items and perform the following operations: a. Add items in the set. b. Insert items of one set into another set. c. Remove items from the set d. Search the specified item in the set
+4. Write a Java program using Map interface containing list of items having keys and associated values and perform the following operations: a.Add items in the map. b.Remove items from the map c.Search specific key from the map d.Get value of the specified key e.Insert map elements of one map into another map. f. Print all keys and values of the map.
+5. WAP using Lambda Expression with multiple parameters to print addition of two numbers.
+6. WAP using Lambda Expression to calculate following: a) Convert Fahrenheit to Celsius b) Convert Kilometers to Meters
+
+
+Module 3:
+1. Write a Spring application that demonstrates Dependency Injection using the constructor, implemented through XML-based configuration or annotation-based configuration
+1. Write a Spring application that demonstrates Dependency Injection using the setter method, implemented through XML-based configuration or annotation-based configuration
+
+
+Module 4:
+1. Write a program to insert, update and delete records from the Movie table.(Movie Application) Movie table(movie_id , movie_name)
+2. Write a program to demonstrate PreparedStatement in Spring JdbcTemplate.
+3. Write a program to demonstrate the ResultSetExtractor interface to fetch the records from the database.
+4. Write a program to demonstrate the RowMapper interface to fetch the records from the database.
+
+Module 5,6:
+
+1. Write a program to create a simple Spring Boot application that prints a message.
+2. Write a program to demonstrate RESTful Web Services with spring boot.(Product Application)
+3. Write a program demonstrating how to set up a CRUD (Create, Read, Update, Delete) application using Spring Framework and Hibernate ORM with annotations for entity mapping and dependency injection.
